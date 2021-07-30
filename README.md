@@ -9,7 +9,7 @@
 + Java Programming
 + [System Programming](#system-programming)
 + Programming Language
-+ Data Mining and Analysis
++ [Data Mining and Analysis](#datamining-and-analysis)
 
  ## System Programming
  
@@ -40,3 +40,16 @@
     - bank.c
     - bank.h
     - makefile
+
+## Datamining and Analysis
+### datamining.py
+ 
+  + #### **Description** 
+    - 1 : Titanic Survivor Predictor (Random Forest)
+    - 2 : Market Basket Analyzer (FP Growth)
+
+  + #### **File**
+    - datamining.py
+    - test.csv
+    - train.csv
+    - Market_Basket_Optimisatino.csv
