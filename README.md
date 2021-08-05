@@ -1,6 +1,6 @@
 # homework
 
-2021 학부 실습 과제 모음
+2021 학부 실습 과제
 
 ## Contents
 
@@ -26,7 +26,11 @@
     > ##### shell interpreter 작성 - 명렁어 실행, 후면 실행, 순차 실행, 입/출력 리디렉션
 
 ## Programming Language
-
+- #### Lab01
+  > ##### 3-digit computer interpreter 작성
+- ### Lab02
+  > ##### Recursive Descent Parsing - 사칙연산(+, *, /, -), 비교 연산(==, !=, >, <), 논리연산(!, &&, ||)
+  
 ## Datamining and Analysis
 - #### Datamining and Analysis/datamining.py
   > ##### Random Forest & FP Growth 예제
