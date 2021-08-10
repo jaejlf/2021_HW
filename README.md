@@ -1,9 +1,5 @@
 # homework
 
-2021 학부 실습 과제
-
-## Contents
-
 + [Window Programming](#window-programming)
 + [System Programming](#system-programming)
 + [Programming Language](#programming-language)
